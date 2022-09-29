@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitw3code&label=Profile%20views&color=0e75b6&style=flat" alt="rohitw3code" /> </p>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=rohitw3code" alt="rohitw3code" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=rohitw3code&theme=algolia" alt="rohitw3code" /></a> </p>
 
 - 🔭 I’m currently working on **Laper App**
 
