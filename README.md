@@ -29,3 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitw3code&show_icons=true&locale=en" alt="rohitw3code" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitw3code&" alt="rohitw3code" /></p>
+
+<p align="center">
+  <img src="https://github.com/rohitw3code/rohitw3code/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
