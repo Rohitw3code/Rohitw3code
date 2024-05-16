@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitw3code&label=Profile%20views&color=0e75b6&style=flat" alt="rohitw3code" /> </p>
 
-- 👨‍💻 Looking for a opportunity in *ML/AI and Data Science*
+- 👨‍💻 Looking for a opportunity in **ML/AI and Data Science**
 
 - 🌱 I’m currently learning **B.Tech Artificial intelligence**
 
-- 💬 Ask me about **data science, Machine Learning, App Development, Python**
+- 💬 Ask me about **Data science, Machine Learning, App Development, Python**
 
 - 📫 How to reach me: **rohitcode005@gmail.com**
 
