@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact: **I think my thoughts are funny**
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -62,7 +62,3 @@
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitw3code&show_icons=true&locale=en&layout=compact" alt="rohitw3code" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitw3code&show_icons=true&locale=en" alt="rohitw3code" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitw3code&" alt="rohitw3code" /></p>
