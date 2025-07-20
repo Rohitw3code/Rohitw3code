@@ -1,51 +1,34 @@
-<h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
+<h1 align="center">Hi 👋, I'm Rohit Kumar  <img alt="Hola" height="30px" width="40px" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/ghost_1f47b.png"></img></h1>
+
+
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
 <h3 align="center">A passionate Machine Learning and Android App developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitw3code&label=Profile%20views&color=0e75b6&style=flat" alt="rohitw3code" /> </p>
 
-- 👨‍💻 Looking for a opportunity in **ML/AI and Data Science**
+- 🔭 Currently building AI-powered agents and tools
 
-- 🌱 I’m currently learning **B.Tech Artificial intelligence**
+- 🧠 Solving real-world problems with ML, LLMs & data
 
 - 💬 Ask me about **Data science, Machine Learning, App Development, Python**
 
-- 📫 How to reach me: **rohitcode005@gmail.com**
+- 💬 Ask me about <strong>Python, ML, App Dev, or Data Science</strong>
 
-- ⚡ Fun fact: **I think my thoughts are funny**
+- 📫 Reach me at: <a href="mailto:rohitcode005@gmail.com">rohitcode005@gmail.com</a>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-</div>
+-  😄 Fun fact: I debug by talking to rubber ducks 🐥
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<!-- Tech Stack Icons: Extracted from Experience & Projects -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,react,nodejs,express,flask,django,fastapi,tailwind,html,css,aws,docker,azure,git,postman,linux,mongodb,mysql,postgres,prisma,opencv,tensorflow,kubernetes,pytorch&perline=14" />
+  </a>
+</p>
 
 ###
 
